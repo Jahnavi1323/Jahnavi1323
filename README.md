@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavi1323&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavi1323" /> </p>
 
-- 🔭 I’m currently working on **Data Engineering**
-
 - 🌱 I’m currently learning **Databricks & Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/jahnavibodlapati](https://www.datascienceportfol.io/jahnavibodlapati)
-
-- 💬 Ask me about **Data Engineering & Data Analytics**
 
 - 📫 How to reach me **bodlapatijahnavi@gmail.com**
 
@@ -27,3 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavi1323&" alt="jahnavi1323" /></p>
 
+### My Github Contributions
+![Snake animation](https://github.com/jahnavi1323/jahnavi1323/blob/output/github-contribution-grid-snake.svg)
