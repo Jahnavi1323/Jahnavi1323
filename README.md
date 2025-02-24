@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jahnavi Bodlapati</h1>
+### <samp>&gt; Hi, I'm <a href="https://gkassym.netlify.app" target="_blank">Jahnavi Bodlapati</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+[![Gmail Badge](https://img.shields.io/badge/-bodlapatijahnavi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bodlapatijahnavi@gmail.com)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-b-a84714344/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/jahnavibodlapati)
-<h3 align="center">A passionate Data Engineer & Data Analyst with experience in building scalable data pipelines, performing advanced data analysis, and developing insightful visualizations. With expertise in Python, SQL, Apache Spark, Hadoop, AWS, Power BI, and Tableau, I strive to turn data into impactful business decisions.</h3>
+[![Github Badge](https://img.shields.io/badge/-jahnavi1323-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jahnavi1323/)](https://www.github.com/jahnavi1323/)
+<h3 align=left>I'm a passionate Data Engineer with experience in Big data technologies, cloud platforms, and data analytics. I enjoy solving complex data problems and building efficient pipelines to process large datasets.  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnavi1323&label=Profile%20views&color=0e75b6&style=flat" alt="jahnavi1323" /> </p>
 
 - 🌱 I’m currently learning **Databricks & Microsoft Azure**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/jahnavibodlapati](https://www.datascienceportfol.io/jahnavibodlapati)
+-  <img src="https://github.com/jahnavi1323/jahnavi1323/blob/main/Portfolio_.gif?raw=true" width="21"/>&nbsp;&nbsp; All of my projects are available at [Portifolio](https://www.datascienceportfol.io/jahnavibodlapati)
+- <img src="https://github.com/jahnavi1323/jahnavi1323/blob/main/doc.gif?raw=true" width="21"/>&nbsp;&nbsp; [Resume](https://docs.google.com/document/d/1UVW-yVB2mLdVqexlgoWMtGVc4yI6XHJ9/edit)
 
-- 📫 How to reach me **bodlapatijahnavi@gmail.com**
+  
 
 
 
@@ -22,5 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavi1323&" alt="jahnavi1323" /></p>
 
-### My Github Contributions
-![Snake animation](https://github.com/jahnavi1323/jahnavi1323/blob/output/github-contribution-grid-snake.svg)
