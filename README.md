@@ -1,4 +1,4 @@
-### <samp>&gt; Hi, I'm <a href="https://gkassym.netlify.app" target="_blank">Jahnavi Bodlapati</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi, I'm <a href="https://gkassym.netlify.app" target="_blank">Jahnavi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 [![Gmail Badge](https://img.shields.io/badge/-bodlapatijahnavi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bodlapatijahnavi@gmail.com)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-b-a84714344/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/jahnavibodlapati)
